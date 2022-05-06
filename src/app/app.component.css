@@ -1,0 +1,10 @@
+p {
+  font-family: Lato;
+}
+
+table,
+tr,
+td,
+th {
+  border: solid thin black;
+}
